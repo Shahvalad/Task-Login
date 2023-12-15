@@ -1,0 +1,16 @@
+C:\Users\ayvaz\source\repos\Task\Task\bin\Debug\Task.exe.config
+C:\Users\ayvaz\source\repos\Task\Task\bin\Debug\Task.exe
+C:\Users\ayvaz\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\ayvaz\source\repos\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\ayvaz\source\repos\Task\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayvaz\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\ayvaz\source\repos\Task\Task\obj\Debug\Task.exe
+C:\Users\ayvaz\source\repos\Task\Task\obj\Debug\Task.pdb
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\bin\Debug\Task.exe.config
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\bin\Debug\Task.exe
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\bin\Debug\Task.pdb
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\obj\Debug\Task.exe
+C:\Users\shahvaladea\Desktop\Task-Login-master\Task\obj\Debug\Task.pdb
