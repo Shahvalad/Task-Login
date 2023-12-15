@@ -73,9 +73,9 @@ namespace Task
                             Console.WriteLine("Login successful!");
                             isLogined = true;
                         }
-                        else
+                        if(isLogined == false)
                         {
-                            Console.WriteLine("Wrong username or password!");
+                            Console.WriteLine("Wrong username of password");
                         }
                     }
                 }
